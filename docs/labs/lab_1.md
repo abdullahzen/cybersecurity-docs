@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 1 - Section 1221
 
 ### Deadline: Today, 11:59pm 22nd of August, 2023
 

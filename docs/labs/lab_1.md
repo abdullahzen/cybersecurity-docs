@@ -19,8 +19,8 @@
 
 # Task 3
 Exercises on Affine Cipher:
-- Register on this link: https://web.papershala.com/registration/new/74115
-- Start the exercise only when you're ready. The duration is set to 2 hours: https://web.papershala.com/login/user/14469
+- Register on this [link](https://web.papershala.com/registration/new/74115)
+- Start the exercise only when you're ready. The duration is set to 2 hours: [Exercises](https://web.papershala.com/login/user/14469)
 
 
 # Submission

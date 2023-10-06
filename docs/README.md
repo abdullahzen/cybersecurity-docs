@@ -6,6 +6,7 @@
 * [Lab 2 - Section 1221](./labs/lab_2_1221.md)
 * [Lab 2 - Section 2203](./labs/lab_2_2203.md)
 * [Lab 3 - Section 1221](./labs/lab_3_1221.md)
+* [Lab 3 - Section 2203](./labs/lab_3_2203.md)
 
 ### External References:
 * [Git Commands](https://git-scm.com/docs/git)
